@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2800&pause=800&color=FFFFFF&bgcolor=7B2FBE&center=true&vCenter=true&width=460&height=45&lines=Co-Founder+%40+GRED;Mechanical+Engineering+Student;Robotics+%2F+UAV+%2F+Mechatronics;Building+real+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2800&pause=800&color=FFFFFF&bgcolor=7B2FBE&center=true&vCenter=true&width=460&height=45&lines=Mechanical+Engineering+Student;Robotics+%2F+UAV+%2F+Mechatronics;Building+real+products" alt="Typing SVG"/>
 
 <br/><br/>
 
