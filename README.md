@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FFCC&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,30&width=100%" width="100%"/>
 
 ```
 ███████╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
@@ -11,13 +11,17 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=900&color=00FFCC&center=true&vCenter=true&width=500&lines=Co-Founder+%40+GRED;Mechanical+Engineering+Student;Robotics+%2F+UAV+%2F+Mechatronics;Building+real+products" alt="Typing SVG"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2800&pause=800&color=FFFFFF&bgcolor=7B2FBE&center=true&vCenter=true&width=460&height=45&lines=Co-Founder+%40+GRED;Mechanical+Engineering+Student;Robotics+%2F+UAV+%2F+Mechatronics;Building+real+products" alt="Typing SVG"/>
+
+<br/><br/>
+
+![GRED Co-Founder](https://img.shields.io/badge/GRED-Co--Founder-white?style=for-the-badge&logo=rocket&logoColor=7B2FBE&labelColor=7B2FBE&color=ffffff)
 
 <br/>
 
-![GRED Co-Founder](https://img.shields.io/badge/GRED__Co--Founder-00FFCC?style=for-the-badge&logo=rocket&logoColor=000000)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FFCC&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,30&width=100%" width="100%"/>
 
 </div>
 
@@ -84,29 +88,29 @@ ML on microcontrollers, autonomous control experiments.
 <br/>
 
 **Lang** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0a0a0a?style=flat-square&logo=dart&logoColor=00FFCC)
-![JS](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FFCC)
-![TS](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00FFCC)
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FFCC)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FFCC)
+![Dart](https://img.shields.io/badge/Dart-7B2FBE?style=flat-square&logo=dart&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-7B2FBE?style=flat-square&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-7B2FBE?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-7B2FBE?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
 
 **Mobile** &nbsp;&nbsp;&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=00FFCC)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00FFCC)
-![Next](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=00FFCC)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=00FFCC)
+![Flutter](https://img.shields.io/badge/Flutter-5A189A?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-5A189A?style=flat-square&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-5A189A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-5A189A?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend** &nbsp;&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=00FFCC)
-![Firestore](https://img.shields.io/badge/Firestore-0a0a0a?style=flat-square&logo=firebase&logoColor=00FFCC)
-![Functions](https://img.shields.io/badge/Cloud_Functions-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00FFCC)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=00FFCC)
+![Firebase](https://img.shields.io/badge/Firebase-3C096C?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-3C096C?style=flat-square&logo=firebase&logoColor=white)
+![Functions](https://img.shields.io/badge/Cloud_Functions-3C096C?style=flat-square&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3C096C?style=flat-square&logo=supabase&logoColor=white)
 
 **Hardware** &nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=00FFCC)
-![ESP32](https://img.shields.io/badge/ESP32-0a0a0a?style=flat-square&logo=espressif&logoColor=00FFCC)
-![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=00FFCC)
-![CAD](https://img.shields.io/badge/CAD-0a0a0a?style=flat-square&logo=autodesk&logoColor=00FFCC)
+![Arduino](https://img.shields.io/badge/Arduino-240046?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-240046?style=flat-square&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-240046?style=flat-square&logo=mathworks&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-240046?style=flat-square&logo=autodesk&logoColor=white)
 
 <br/>
 
@@ -123,22 +127,22 @@ ML on microcontrollers, autonomous control experiments.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:cazayan8@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-7B2FBE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cazayan8@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/zayan-abdul-rahman-c-a-a702aa322/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayan-abdul-rahman-c-a-a702aa322/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00FFCC)](https://www.instagram.com/zayan.ig/)
+[![Instagram](https://img.shields.io/badge/Instagram-3C096C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zayan.ig/)
 &nbsp;
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=00FFCC)](https://x.com/ZAYANCA)
+[![X](https://img.shields.io/badge/X-240046?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZAYANCA)
 
-[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00FFCC)](https://www.facebook.com/zayan.ca.1)
+[![Facebook](https://img.shields.io/badge/Facebook-7B2FBE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zayan.ca.1)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0a0a0a?style=for-the-badge&logo=orcid&logoColor=00FFCC)](https://orcid.org/0009-0004-7955-7502)
+[![ORCID](https://img.shields.io/badge/ORCID-5A189A?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7955-7502)
 &nbsp;
-[![Linktree](https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=00FFCC)](https://linktr.ee/project.zayan)
+[![Linktree](https://img.shields.io/badge/Linktree-3C096C?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/project.zayan)
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FFCC&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,30&width=100%" width="100%"/>
 </div>
